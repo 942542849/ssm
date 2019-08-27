@@ -39,7 +39,7 @@ public class compare {
 		 stra = s.next();
 		 System.out.println("请输入b的字符串：");
 		 strb = s.next();
-        System.out.println("匹配结果是：");
+        System.out.println("匹配结果是：sssssss");
 		System.out.println(compared(stra,strb));
 		
 	}
